@@ -35,3 +35,4 @@ I'm building tools and tutorials for creators who want to harness AI without los
 - 📺 YouTube: [ArteIA](https://www.youtube.com/@arteia)
 - 🐦 X (Twitter): [@arteia2808](https://x.com/arteia2808)
 - 📷 Instagram: [@arteia2808](https://www.instagram.com/arteia2808/)
+- ☕ [Buy me a coffee](https://www.ko-fi.com/arteia)
