@@ -24,7 +24,7 @@ I'm building tools and tutorials for creators who want to harness AI without los
   One-click installer for **Invoke Training**  
   ⚙️ A simple script to install `invoke-training` on Windows, Mac, or Linux with minimal setup.
 
-- **[ArteIA on YoTube](https://www.youtube.com/@arteia)**  
+- **[ArteIA on YouTube](https://www.youtube.com/@arteia)**  
   Tutorials on image generation and more
 
 ---
